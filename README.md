@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+Gisele%27s+GitHub)](https://git.io/typing-svg)
 
-## The Following oOutlines My Technical Skillsets : 
+## The Following Outlines My Technical Skillsets : 
 
 ### Data Analytic Tools
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
@@ -29,3 +29,4 @@
 
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4.svg?style=for-the-badge&logo=Google-Drive&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853.svg?style=for-the-badge&logo=Google-Sheets&logoColor=white)
+![
